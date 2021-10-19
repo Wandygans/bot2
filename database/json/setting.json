@@ -1,0 +1,13 @@
+{
+    "name": "Ochobot",
+    "limitt": 99999999999,
+    "membetLimit": 0,
+    "namaowner": "WandyGans",
+    "nomorowner": "wa.me/6281290565513",
+    "prefix": "#",
+    "autoread": true,
+    "v": "0.0.1",
+    "s": "6281290565513",
+    "memberLimit": 5,
+    "groupLimit": 5
+  }
